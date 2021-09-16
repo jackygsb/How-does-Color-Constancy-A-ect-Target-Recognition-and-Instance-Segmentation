@@ -1,4 +1,4 @@
-# How-does-Color-Constancy-A-ect-Target-Recognition-and-Instance-Segmentation
+# How does Color Constancy Affect Target Recognition and Instance Segmentation?
 
 1. This repo include codes for our work in How does Color Constancy Affect Target Recognition and Instance Segmentation?, an augmentation strategy which combine color augmentation and synthetic occlusion augmentation. Our method emulates wrong WB images under high occlusion level, which generally have bad performance on current DNNs for detection and segmentation. Please see the details about how to implement the algorithm https://github.com/xuesyn/Occluded-Dataset-with-Color-Augmentation
 
